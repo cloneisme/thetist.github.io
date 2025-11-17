@@ -15,6 +15,12 @@
   ],
   "publications": [
     {
+      "name": "CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents",
+      "publisher": "Under Review",
+      "releaseDate": "Coming Soon",
+      "url": ""
+    },
+    {
       "name": "MIP-Bench: Can LLMs Implicitly Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
       "publisher": "Under Review",
       "releaseDate": "Coming Soon",
